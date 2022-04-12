@@ -1,5 +1,5 @@
 
-![header](https://capsule-render.vercel.app/api?type=waving&height=200&text=BOAZ&color=0:b4e5f5,100:2ba8e0&fontColor=FFFFFF)
+![header](https://capsule-render.vercel.app/api?type=waving&height=200&text=SOLUX&color=0:b4e5f5,100:2ba8e0&fontColor=FFFFFF)
 
 
 <h1 align="center">숙명여자대학교 중앙 동아리 <span style="color:blue">SOLUX</span>를 소개합니다</h1>
