@@ -1,63 +1,32 @@
+![header](https://capsule-render.vercel.app/api?type=waving&height=200&text=Sookmyung%20Programming%20Club:%20ONLY_SOLUX&color=0:aeead1,100:9da5e0&fontSize=30&fontColor=FFFFFF)
 
-![header](https://capsule-render.vercel.app/api?type=waving&height=200&text=SOLUX&color=0:aeead1,100:9da5e0&fontColor=FFFFFF)
-
-
-<h1 align="center">숙명여자대학교 중앙 동아리 <span style="color:blue">SOLUX</span>를 소개합니다</h1>
-</br></br></br>
-
-
-<h3 align="center">
-  
-SOLUX는 숙명의 유일한 프로그래밍 중앙 동아리입니다.
-
-</br>
-
-소프트웨어학부의 리눅스 학회에서 출발한 솔룩스는 
-
-</br>
-
-이제 더 다양한 분야에서의 도전을 시작합니다.
-
-</br></br>
-
-웹, 앱 등 서비스 개발 뿐 아니라 아두이노, 빅데이터 등의 분야와 자신의 전공을 융합하고
-
-</br>
-
-다양한 분야에 관심있는 학우들이 모여 IT 프로젝트와 스터디를 진행합니다.
-
-</br></br>
-
-더 나은 자신을 위한 특별한 동아리, 우리는 SOLUX 입니다.
-
-</br>
-
-
-</h3>
-
-
-
-</br></br>
-
-
-
-
-<h2 align="center"><b>📞📫 How to reach us</b></h2>
-
-<p align="center">
-<a href="mailto:sm.solux@gmail.com"> <img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:sm.solux@gmail.com"/></a>&nbsp 
-<a href="https://instagram.com/only_solux"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>&nbsp 
-<br/>
-<a href="https://solux.dev/"><img src="https://img.shields.io/badge/Tistory-0A0A0A?style=flat-square&logo=dev.to&logoColor=white"/></a>&nbsp 
-
-<br/><br/>
- 
+<h2><b>SOLUX 30기 기술 스택</b></h2>
+<h4>🔧 Front-end</h4>
+<p>
+<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=black">
+<img src="https://img.shields.io/badge/ReactNative-61DAFB?style=for-the-badge&logo=React&logoColor=black">
+<img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white">
+<img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=Flutter&logoColor=black">
 </p>
 
-<br/>
-
-<p align="left">
-  
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FBOAZ-bigdata&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
-  
+<h4>🔧 Back-end</h4>
+<p>
+<img src="https://img.shields.io/badge/springboot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white">
+<img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=Django&logoColor=white">
+<img src="https://img.shields.io/badge/NestJs-E0234E?style=for-the-badge&logo=NestJs&logoColor=white">
 </p>
+
+<h4>🔧 Game</h4>
+<p>
+<img src="https://img.shields.io/badge/Unity-FFFFFF?style=for-the-badge&logo=Unity&logoColor=black">
+<img src="https://img.shields.io/badge/UnrealEngine-0E1128?style=for-the-badge&logo=UnrealEngine&logoColor=white">
+</p>
+
+</br>
+
+<h2><b>문의</b></h2>
+<p>
+<a href="mailto:sm.solux@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white"></a>
+<a href="https://instagram.com/only_solux" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white"></a>
+</p>
+
